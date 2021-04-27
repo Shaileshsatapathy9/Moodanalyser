@@ -1,4 +1,5 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using Moodanalyser;
 
 namespace MoodanalyserMSTestwithcore
 {
@@ -8,6 +9,7 @@ namespace MoodanalyserMSTestwithcore
         [TestMethod]
         public void TestMethod1()
         {
+
         }
     }
 }

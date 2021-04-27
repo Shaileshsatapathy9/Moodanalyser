@@ -1,0 +1,13 @@
+C:\Users\Shailesh Satapathy\source\repos\Moodanalyser\Moodanalyser\bin\Debug\netcoreapp3.1\Moodanalyser.exe
+C:\Users\Shailesh Satapathy\source\repos\Moodanalyser\Moodanalyser\bin\Debug\netcoreapp3.1\Moodanalyser.deps.json
+C:\Users\Shailesh Satapathy\source\repos\Moodanalyser\Moodanalyser\bin\Debug\netcoreapp3.1\Moodanalyser.runtimeconfig.json
+C:\Users\Shailesh Satapathy\source\repos\Moodanalyser\Moodanalyser\bin\Debug\netcoreapp3.1\Moodanalyser.runtimeconfig.dev.json
+C:\Users\Shailesh Satapathy\source\repos\Moodanalyser\Moodanalyser\bin\Debug\netcoreapp3.1\Moodanalyser.dll
+C:\Users\Shailesh Satapathy\source\repos\Moodanalyser\Moodanalyser\bin\Debug\netcoreapp3.1\Moodanalyser.pdb
+C:\Users\Shailesh Satapathy\source\repos\Moodanalyser\Moodanalyser\obj\Debug\netcoreapp3.1\Moodanalyser.csprojAssemblyReference.cache
+C:\Users\Shailesh Satapathy\source\repos\Moodanalyser\Moodanalyser\obj\Debug\netcoreapp3.1\Moodanalyser.AssemblyInfoInputs.cache
+C:\Users\Shailesh Satapathy\source\repos\Moodanalyser\Moodanalyser\obj\Debug\netcoreapp3.1\Moodanalyser.AssemblyInfo.cs
+C:\Users\Shailesh Satapathy\source\repos\Moodanalyser\Moodanalyser\obj\Debug\netcoreapp3.1\Moodanalyser.csproj.CoreCompileInputs.cache
+C:\Users\Shailesh Satapathy\source\repos\Moodanalyser\Moodanalyser\obj\Debug\netcoreapp3.1\Moodanalyser.dll
+C:\Users\Shailesh Satapathy\source\repos\Moodanalyser\Moodanalyser\obj\Debug\netcoreapp3.1\Moodanalyser.pdb
+C:\Users\Shailesh Satapathy\source\repos\Moodanalyser\Moodanalyser\obj\Debug\netcoreapp3.1\Moodanalyser.genruntimeconfig.cache
