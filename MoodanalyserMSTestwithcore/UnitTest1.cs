@@ -7,9 +7,18 @@ namespace MoodanalyserMSTestwithcore
     public class UnitTest1
     {
         [TestMethod]
-        public void TestMethod1()
+        public void GivenSadMoodShouldReturnSad()
         {
+            // Arrange
+            string expected = "SAD";
+            string message = "I am in Sad Mood";
+            MoodAnalyser moodAnalyse = new MoodAnalyser(message);
 
-        }
+            //Act
+            string mood = moodAnalyse.AnalyseMood();
+
+            //Assert
+            Assert.AreEqual(expected, mood);
+        }    
     }
 }
